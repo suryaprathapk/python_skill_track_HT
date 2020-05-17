@@ -9,11 +9,17 @@ https://modelnrevvy-my.sharepoint.com/:f:/g/personal/skambham_modeln_com/EuSGRlr
 
 ### Individual Sessions
 Session1 -https://modelnrevvy-my.sharepoint.com/:f:/r/personal/skambham_modeln_com/Documents/Python_skill_track/Meeting_recordings/python_session1?csf=1&web=1&e=YDOvbM
+
 Session3 -https://modelnrevvy-my.sharepoint.com/:f:/r/personal/skambham_modeln_com/Documents/Python_skill_track/Meeting_recordings/python_session3?csf=1&web=1&e=LEV3xz
+
 Session4 -https://modelnrevvy-my.sharepoint.com/:f:/r/personal/skambham_modeln_com/Documents/Python_skill_track/Meeting_recordings/python_session4?csf=1&web=1&e=9DN4xB
+
 Session5 -https://modelnrevvy-my.sharepoint.com/:f:/r/personal/skambham_modeln_com/Documents/Python_skill_track/Meeting_recordings/python_session5?csf=1&web=1&e=7Nd3f8
+
 Session6 -https://modelnrevvy-my.sharepoint.com/:f:/r/personal/skambham_modeln_com/Documents/Python_skill_track/Meeting_recordings/python_session6?csf=1&web=1&e=X7cw6r
+
 Sesison7 -https://modelnrevvy-my.sharepoint.com/:f:/r/personal/skambham_modeln_com/Documents/Python_skill_track/Meeting_recordings/python_session7?csf=1&web=1&e=msKViD
+
 ## Getting Started
 First of all, download python from here : https://www.python.org/downloads/ (Windows installation is pretty straight forward, Linux distributions comes with Python 2.7, but you will have to google and setup python 3+ version with some additional steps)
 

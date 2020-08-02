@@ -20,6 +20,12 @@ Session6 -https://modelnrevvy-my.sharepoint.com/:f:/r/personal/skambham_modeln_c
 
 Sesison7 -https://modelnrevvy-my.sharepoint.com/:f:/r/personal/skambham_modeln_com/Documents/Python_skill_track/Meeting_recordings/python_session7?csf=1&web=1&e=msKViD
 
+### Microservices series
+
+Session1 - https://modelnrevvy-my.sharepoint.com/:f:/r/personal/skambham_modeln_com/Documents/Python_skill_track/Meeting_recordings/microservices_session1?csf=1&web=1&e=sxi5Ym
+
+Session2 - 
+
 ## Getting Started
 First of all, download python from here : https://www.python.org/downloads/ (Windows installation is pretty straight forward, Linux distributions comes with Python 2.7, but you will have to google and setup python 3+ version with some additional steps)
 
